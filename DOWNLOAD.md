@@ -1,16 +1,22 @@
 # Скачать готовую программу для Windows
 
-**[СКАЧАТЬ CyberpunkTracker-Windows-x64.zip](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-Windows-x64.zip)**
+**[СКАЧАТЬ обновление v2 — ZIP для Windows x64](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-Windows-x64-v2.zip)**
 
 Распакуйте ZIP в отдельную папку и запустите **CyberpunkTracker.exe**.
-Python, Codex и отдельную установку .NET выполнять не нужно.
+Python, Codex и отдельная установка .NET не нужны.
 
-Внутри: программа, 57 ачивок с русскими названиями/описаниями и авторскими
-картинками, CET-мост, инструкция `НАЧНИТЕ ЗДЕСЬ.txt` и контрольная сумма EXE.
+В v2: сверху ваше время, открыто X/57 и полоса прогресса, без мировых процентов.
+Названия/описания уточнены по скриншотам. sav.dat читается без изменений для
+квестовых флагов и счётчиков граффити/машин Деламейна. Сессии старой версии сохраняются.
 
-Таймер и сохранение сессий работают без CET. Для автоматических событий
-достижений отдельно установите CET-мост по инструкции из архива. Совместимость
-его перехвата с конкретной сборкой игры ещё требует проверки. Для всплывающих
-уведомлений поверх игры используйте оконный режим без рамки.
+«Разблокировать» открывает отдельную страницу четырёх миссий. **Фактические
+кнопки завершения пока отключены** — правильное закрытие этапов и награды
+не проверены. Есть read-only диагностика CET и отчёт missions-report.json.
+Для исследования: обновите все три Lua-файла моста по инструкции в ZIP,
+запустите игру и нажмите «Разблокировать» → «Проверить миссии через CET».
 
-[Архив исходников](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-source.zip).
+[Исходники v2](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-source-v2.zip)
+
+---
+
+Первая сборка сохранена: [ZIP v1](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-Windows-x64.zip).
