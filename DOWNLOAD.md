@@ -20,3 +20,9 @@ Python, Codex и отдельная установка .NET не нужны.
 ---
 
 Первая сборка сохранена: [ZIP v1](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-Windows-x64.zip).
+
+## Исправление диагностики CET 2.1
+
+[Скачать маленький ZIP-патч CET-моста](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-CET-fix-2.1.zip).
+Заменяет missions.lua, исправляет обязательный контекст GetTarots.
+**Не включает отключённые кнопки завершения миссий — эта функция ещё не реализована.**
