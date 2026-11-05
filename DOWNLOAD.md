@@ -1,6 +1,6 @@
 # Скачать готовую программу для Windows
 
-**[СКАЧАТЬ CyberpunkTracker-Windows-x64.zip](https://github.com/etozhekira/Achievement/raw/refs/heads/main/downloads/CyberpunkTracker-Windows-x64.zip)**
+**[СКАЧАТЬ CyberpunkTracker-Windows-x64.zip](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-Windows-x64.zip)**
 
 Распакуйте ZIP в отдельную папку и запустите **CyberpunkTracker.exe**.
 Python, Codex и отдельную установку .NET выполнять не нужно.
@@ -13,4 +13,4 @@ Python, Codex и отдельную установку .NET выполнять �
 его перехвата с конкретной сборкой игры ещё требует проверки. Для всплывающих
 уведомлений поверх игры используйте оконный режим без рамки.
 
-[Архив исходников](https://github.com/etozhekira/Achievement/raw/refs/heads/main/downloads/CyberpunkTracker-source.zip).
+[Архив исходников](https://raw.githubusercontent.com/etozhekira/Achievement/main/downloads/CyberpunkTracker-source.zip).
